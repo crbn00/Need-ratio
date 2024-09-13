@@ -43,6 +43,8 @@ This repository and its contents are licensed under the [MIT License](https://gi
 &nbsp;
 
 
+Need ratio so publishing
+
 ### ❤️Support Me
 
 Your sponsorship will help me achieve my goals and support future projects.
